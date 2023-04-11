@@ -1,0 +1,11 @@
+POPS - procedure oriented programming System (C , C++)
+OOPS - Object Oriented Programming System (C++ , JAVA , Python)
+
+-> OOPS
+
+1. Class
+2. Object
+3. Abstraction
+4. Inheritance
+5. Polymorphism
+6. Encapsulation
